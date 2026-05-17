@@ -1,0 +1,15 @@
+Kategorije: Pizze, Jela od mesa, Riba, Predjela, Deserti
+
+Proizvodi:
+1. Pizza Capricciosa (npr Pizza Capricciosa, kategorija Pizze)
+2. Pizza Margarita (npr Pizza Margarita, kategorija Pizze)
+3. Pizza Vesuvio (npr Pizza Vesuvio, kategorija Pizze)
+4. Grilovana i pržena piletina (npr Grilovana i pržena piletina, kategorija Jela od mesa)
+5. Piletina u terijaki sosu (npr Piletina u terijaki sosu, kategorija Jela od mesa)
+6. Pileći nuggets sa krompirom (npr Pileći nuggets sa krompirom, kategorija Jela od mesa)
+7. Gurmanska Pljeskavica (npr Gurmanska Pljeskavica, kategorija Jela od mesa)
+8. Pljeskavica (npr Pljeskavica, kategorija Jela od mesa)
+9. Grilovani filet lososa sa salatom (npr Grilovani filet lososa sa salatom, kategorija Riba)
+10. Grilovani odrezak skuše (npr Grilovani odrezak skuše, kategorija Riba)
+11. Slane Palačinke (npr Slane Palačinke, kategorija Predjela)
+12. Čokoladna Torta (npr Čokoladna Torta, kategorija Deserti)
