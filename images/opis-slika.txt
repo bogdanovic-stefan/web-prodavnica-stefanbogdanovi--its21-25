@@ -1,0 +1,7 @@
+Ovde će se nalaziti slike proizvoda, logo i promotivni materijali.
+
+Za prikupljanje, kreiranje i obradu vizuelnog sadržaja korišćeni su sledeći alati i platforme:
+
+1. Unsplash (https://unsplash.com/) - Korišćen za pronalaženje visokokvalitetnih, profesionalnih i besplatnih fotografija hrane i enterijera restorana.
+2. Midjourney AI - Korišćen kao generativni AI alat za kreiranje jedinstvenih fotorealističnih slika jela i promotivnih banera.
+3. Canva - Korišćena za vektorsko kreiranje i prilagođavanje logoa restorana "Gagi", kao i za brzu obradu, opsecanje i optimizaciju dimenzija slika za web prodavnicu.
