@@ -1,8 +1,19 @@
 Plan sajta: 
 
 1. Početna strana
+Glavna ulazna stanica sajta sa atraktivnim vizuelnim sadržajem, koja odmah predstavlja brend restorana, ističe ključne ponude i sadrži brze pozive na akciju (CTA) poput dugmeta za rezervaciju stola.
+
 2. Prodavnica
+Pregledan i strukturiran online meni koji posetiocima omogućava pretragu svih jela i pića po kategorijama, sa detaljnim prikazom cena, fotografija i informacija o artiklima koji su na akciji.
+
 3. O nama
+Stranica posvećena priči, tradiciji i vrednostima restorana, na kojoj su predstavljeni i članovi kuhinjskog tima, čime se gradi poverenje i bliža veza sa gostima.
+
 4. Kontakt
+Stranica sa svim ključnim informacijama za komunikaciju – radnim vremenom, brojevima telefona za informacije i rezervacije, kontakt formom i integrisanom mapom radi lakšeg pronalaženja lokacije restorana.
+
 5. Nalog
+Korisnički panel (My Account) koji omogućava kupcima da kreiraju svoj profil, upravljaju podacima za dostavu i u realnom vremenu prate status i istoriju svojih porudžbina.
+
 6. Korpa
+Dinamički pregled izabranih jela gde korisnik može da proverava količine, vidi ukupnu cenu sa troškovima dostave i započne brz i siguran proces plaćanja i poručivanja (Checkout).
