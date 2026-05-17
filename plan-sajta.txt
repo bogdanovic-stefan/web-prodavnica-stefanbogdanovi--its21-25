@@ -1,8 +1,8 @@
-# Plan sajta
+Plan sajta: 
 
-## 1. Početna strana
-## 2. Prodavnica
-## 3. O nama
-## 4. Kontakt
-## 5. Nalog
-## 6. Korpa
+1. Početna strana
+2. Prodavnica
+3. O nama
+4. Kontakt
+5. Nalog
+6. Korpa
